@@ -1,21 +1,20 @@
-# SQLite Tool for Unity
+# SQLite Tool
 
-**Effortless SQLite Database Management Inside Unity**
+**Customizable Unity Application**
 
-Take full control of your local data with this intuitive SQLite management tool designed for Unity developers. Whether you’re building games, apps, or prototypes, manage your database seamlessly without writing complex SQL code.
+This is a fully customizable Unity application built as a project template. Users can **download the source, modify, and adapt it** to create their own version of the app. Perfect for learning, prototyping, or as a base for your own projects.
 
 ## Key Features
-- ✅ **Easy Integration** – Plug and play with any Unity project
-- ✅ **Full CRUD Support** – Create, Read, Update, Delete tables and records effortlessly
-- ✅ **Visual Interface** – Navigate and edit your database with a user-friendly UI
-- ✅ **Lightweight & Efficient** – Minimal impact on project performance
-- ✅ **Ready for Prototypes & Production** – Ideal for both quick testing and final products
+- ✅ **Fully Customizable** – Modify the app’s UI, features, and logic to fit your needs
+- ✅ **Ready-to-Use Project** – Just open in Unity and start editing
+- ✅ **SQLite Integration** – Built-in database support for saving and managing data
+- ✅ **Lightweight & Efficient** – Minimal setup required
+- ✅ **Perfect for Learning or Prototyping** – A great starting point for your own apps
 
 ## Demo Video
 🎬 Watch the demo: https://youtu.be/jXqnqvjvCUE
 
 ## Getting Started
 1. Clone or download this repository.
-2. Open the Unity project.
-3. Start using the SQLite Tool from the provided interface.
-
+2. Open the project in Unity.
+3. Start customizing the app: change UI, add features, or integrate it into your own project.
