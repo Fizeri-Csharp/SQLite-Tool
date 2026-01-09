@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\unityProjects\\sql Tool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77D336A0-E607-C296-51F1-F369611B56E3}|Assembly-CSharp.csproj|c:\\users\\admin\\unityprojects\\sql tool\\assets\\standalonefilebrowser\\sample\\canvassampleopenfileimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D336A0-E607-C296-51F1-F369611B56E3}|Assembly-CSharp.csproj|solutionrelative:assets\\standalonefilebrowser\\sample\\canvassampleopenfileimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D336A0-E607-C296-51F1-F369611B56E3}|Assembly-CSharp.csproj|C:\\Users\\Admin\\unityProjects\\sql Tool\\assets\\scripts\\main\\consolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D336A0-E607-C296-51F1-F369611B56E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main\\consolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D336A0-E607-C296-51F1-F369611B56E3}|Assembly-CSharp.csproj|c:\\users\\admin\\unityprojects\\sql tool\\assets\\scripts\\main\\quittomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D336A0-E607-C296-51F1-F369611B56E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main\\quittomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D336A0-E607-C296-51F1-F369611B56E3}|Assembly-CSharp.csproj|c:\\users\\admin\\unityprojects\\sql tool\\assets\\scripts\\welcome controller\\welcomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D336A0-E607-C296-51F1-F369611B56E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\welcome controller\\welcomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D336A0-E607-C296-51F1-F369611B56E3}|Assembly-CSharp.csproj|C:\\Users\\Admin\\unityProjects\\sql Tool\\assets\\scripts\\ondestroyload\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D336A0-E607-C296-51F1-F369611B56E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ondestroyload\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D336A0-E607-C296-51F1-F369611B56E3}|Assembly-CSharp.csproj|C:\\Users\\Admin\\unityProjects\\sql Tool\\assets\\scripts\\main\\tablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D336A0-E607-C296-51F1-F369611B56E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main\\tablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D336A0-E607-C296-51F1-F369611B56E3}|Assembly-CSharp.csproj|C:\\Users\\Admin\\unityProjects\\sql Tool\\assets\\scripts\\main\\createtablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D336A0-E607-C296-51F1-F369611B56E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main\\createtablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D336A0-E607-C296-51F1-F369611B56E3}|Assembly-CSharp.csproj|C:\\Users\\Admin\\unityProjects\\sql Tool\\assets\\scripts\\ui\\swichtoolmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D336A0-E607-C296-51F1-F369611B56E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\swichtoolmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D336A0-E607-C296-51F1-F369611B56E3}|Assembly-CSharp.csproj|C:\\Users\\Admin\\unityProjects\\sql Tool\\assets\\scripts\\prefab_instance\\rowui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D336A0-E607-C296-51F1-F369611B56E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prefab_instance\\rowui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D336A0-E607-C296-51F1-F369611B56E3}|Assembly-CSharp.csproj|C:\\Users\\Admin\\unityProjects\\sql Tool\\assets\\scripts\\main\\add_row.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D336A0-E607-C296-51F1-F369611B56E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main\\add_row.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CanvasSampleOpenFileImage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\unityProjects\\sql Tool\\Assets\\StandaloneFileBrowser\\Sample\\CanvasSampleOpenFileImage.cs",
+              "RelativeDocumentMoniker": "Assets\\StandaloneFileBrowser\\Sample\\CanvasSampleOpenFileImage.cs",
+              "ToolTip": "C:\\Users\\Admin\\unityProjects\\sql Tool\\Assets\\StandaloneFileBrowser\\Sample\\CanvasSampleOpenFileImage.cs",
+              "RelativeToolTip": "Assets\\StandaloneFileBrowser\\Sample\\CanvasSampleOpenFileImage.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T06:49:42.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "quitToMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\unityProjects\\sql Tool\\Assets\\Scripts\\Main\\quitToMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Main\\quitToMenu.cs",
+              "ToolTip": "C:\\Users\\Admin\\unityProjects\\sql Tool\\Assets\\Scripts\\Main\\quitToMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Main\\quitToMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T06:47:26.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\unityProjects\\sql Tool\\Assets\\Scripts\\OnDestroyLoad\\Database.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OnDestroyLoad\\Database.cs",
+              "ToolTip": "C:\\Users\\Admin\\unityProjects\\sql Tool\\Assets\\Scripts\\OnDestroyLoad\\Database.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OnDestroyLoad\\Database.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T06:35:47.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\unityProjects\\sql Tool\\Assets\\Scripts\\Main\\ConsoleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Main\\ConsoleManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\unityProjects\\sql Tool\\Assets\\Scripts\\Main\\ConsoleManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Main\\ConsoleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T05:37:22.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SwichToolMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\unityProjects\\sql Tool\\Assets\\Scripts\\UI\\SwichToolMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SwichToolMenu.cs",
+              "ToolTip": "C:\\Users\\Admin\\unityProjects\\sql Tool\\Assets\\Scripts\\UI\\SwichToolMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\SwichToolMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T05:26:17.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateTableManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\unityProjects\\sql Tool\\Assets\\Scripts\\Main\\CreateTableManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Main\\CreateTableManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\unityProjects\\sql Tool\\Assets\\Scripts\\Main\\CreateTableManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Main\\CreateTableManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T22:34:47.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Add_Row.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\unityProjects\\sql Tool\\Assets\\Scripts\\Main\\Add_Row.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Main\\Add_Row.cs",
+              "ToolTip": "C:\\Users\\Admin\\unityProjects\\sql Tool\\Assets\\Scripts\\Main\\Add_Row.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Main\\Add_Row.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAYwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T06:13:22.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RowUI.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\unityProjects\\sql Tool\\Assets\\Scripts\\Prefab_Instance\\RowUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Prefab_Instance\\RowUI.cs",
+              "ToolTip": "C:\\Users\\Admin\\unityProjects\\sql Tool\\Assets\\Scripts\\Prefab_Instance\\RowUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Prefab_Instance\\RowUI.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T05:36:41.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TablesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\unityProjects\\sql Tool\\Assets\\Scripts\\Main\\TablesController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Main\\TablesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\unityProjects\\sql Tool\\Assets\\Scripts\\Main\\TablesController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Main\\TablesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T23:21:58.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WelcomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\unityProjects\\sql Tool\\Assets\\Scripts\\Welcome Controller\\WelcomeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Welcome Controller\\WelcomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\unityProjects\\sql Tool\\Assets\\Scripts\\Welcome Controller\\WelcomeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Welcome Controller\\WelcomeController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwDwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T22:36:26.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
